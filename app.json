@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "AnimeUniverse",
+    "slug": "AnimeUniverse",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "AnimeUniverse"
+}
